@@ -1,0 +1,11 @@
+<key>CFBundleName</key>
+<string>Başıma gelen iyi şeyler</string>
+<key>CFBundleDisplayName</key>
+<string>Başıma gelen iyi şeyler</string>
+<key>CFBundleLocalizations</key>
+<array>
+	<string>en</string>
+	<string>tr</string>
+</array>
+<key>CFBundleDevelopmentRegion</key>
+<string>en</string> 
